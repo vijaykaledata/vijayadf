@@ -1,0 +1,9 @@
+{
+	"name": "vijaykaleadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b293a5df-5a19-4675-8825-7156ce7001d8",
+		"tenantId": "b564d427-bf3d-4f38-a0c9-76538fcf368a"
+	}
+}
